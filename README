@@ -1,0 +1,13 @@
+MYFS -- A Ram File System Implementation
+
+Version : myfs v0.01
+Author : Krishna Pai
+
+This is a simple ram file system module. Right now , it supports only files of
+size 40kb.Why ? Well , getting higher file sizes is less of an issue than making
+sure, I support all the file operations required. Once I do that , I will
+expand it to support any size of files. This still very much a work in
+progress ,that I do in my spare time. So its quite buggy ! :) .
+Any creative input is highly appreaciated.
+
+--Krishna
